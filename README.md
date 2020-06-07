@@ -2,7 +2,8 @@
 # RPG Card Game - front-end Vue <h1>
 
  ### Single Page Application <h3>
-	* list with 6 monsters 
+
+	* list with 6 monsters
 	* list with 3 playable characters 
 	* every game starts with random opponent
 	* every opponent has special attack on every 10 hero's attacks
