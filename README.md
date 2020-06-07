@@ -24,6 +24,7 @@
 
 ### Lost-Win Page <h3>
 	* Player can gives up and goes back to home page and switch character
-	* Continue the game
+	* Continue the game If player wins
+	* New Game if player lost the match
  ![login](img/lost_game.jpg)
 
