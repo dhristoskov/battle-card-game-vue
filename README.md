@@ -6,7 +6,7 @@
 	* list with 3 playable characters 
 	* every game starts with random opponent
 	* every opponent has special attack on every 10 hero's attacks
-	* every opponent has different min and max hit 
+	* every opponent has different min and max hit power
  ### Home Page - Character Page <h3>
 	* 3 playable characters 
  ![landing_page](img/home.jpg)
@@ -14,7 +14,7 @@
  ### Wizard Game <h3>
 	* mana power bar 
 	* heal skill
-	* special attack and heal cost mana
+	* special attack and heal cost mana power
  ![fleet_1](img/wizard_game.jpg)
 
 ### Ranger Game <h3>
